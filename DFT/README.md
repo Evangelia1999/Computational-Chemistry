@@ -89,13 +89,7 @@ wait
 
 * Submit all ORCA jobs in parallel and save outputs in the organized folder.
 
-### 5. Recommended ORCA workflow
-
-1. **Optimize geometry first:** change `SP` → `Opt` in your input.
-2. **Run Single-Point energy (SP)** after optimization for accurate energy.
-3. **Save optimized geometry** for later interaction energy calculations.
-
-### 6. Tips
+### 5. Tips
 
 * Use `%pal nprocs 24` to utilize multiple cores.
 * Keep consistent naming conventions for input/output files.
@@ -103,7 +97,7 @@ wait
 * For complexes, start from reasonable initial geometries to reduce SCF iterations.
 * Optional: use `TightSCF` and `TightOpt` for more accurate convergence.
 
-### 7. Analysis
+### 6. Analysis
 
 * Compute interaction energies using:
 
