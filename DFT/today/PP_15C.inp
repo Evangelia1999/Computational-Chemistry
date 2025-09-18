@@ -1,10 +1,5 @@
-! B3LYP D3BJ def2-TZVP TightSCF Opt
-
-%pal
-  nprocs 24
-end
-
-* xyz 0 1
+68
+/mnt/data/iPP_18C_backbone_isotactic.xyz
 C      1.2315679419    0.0535719847   -0.1313117260
 C      2.1036036741   -0.5736326298   -1.2261107515
 H      1.2430801553   -0.5547375231    0.7795633139
