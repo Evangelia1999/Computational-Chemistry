@@ -1,4 +1,4 @@
-! CAM-B3LYP cc-pVDZ DefGrid3 VeryTightSCF VeryTightOpt NumFreq
+! CAM-B3LYP cc-pVDZ DefGrid3 VeryTightSCF VeryTightOpt NumFreq Raman
 
 %pal
  nprocs 24

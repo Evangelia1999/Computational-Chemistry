@@ -1,11 +1,7 @@
-! CAM-B3LYP cc-pVDZ VeryTightSCF VeryTightOpt NumFreq Raman
-
-%method
-  Grid5
-end
+! CAM-B3LYP cc-pVDZ VeryTightSCF VeryTightOpt NumFreq
 
 %pal
- nprocs 24
+ nprocs 64
 end
 
 * xyz 0 1
